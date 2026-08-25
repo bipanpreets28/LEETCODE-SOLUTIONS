@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
