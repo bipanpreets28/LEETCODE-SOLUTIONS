@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
