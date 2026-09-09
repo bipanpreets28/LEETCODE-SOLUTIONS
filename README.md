@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
