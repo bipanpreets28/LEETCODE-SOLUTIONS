@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
