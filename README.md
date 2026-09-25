@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
