@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
@@ -93,5 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
