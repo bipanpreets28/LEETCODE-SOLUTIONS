@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Interactive
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
