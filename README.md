@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
