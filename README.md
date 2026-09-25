@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1920-build-array-from-permutation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,12 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
