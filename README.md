@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
