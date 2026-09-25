@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
