@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1920-build-array-from-permutation) |
+| [2733-neither-minimum-nor-maximum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2733-neither-minimum-nor-maximum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
