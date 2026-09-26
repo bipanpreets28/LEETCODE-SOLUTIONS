@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
