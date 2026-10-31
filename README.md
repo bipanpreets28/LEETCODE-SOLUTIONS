@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0283-move-zeroes) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -164,8 +166,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
