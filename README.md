@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bipanpreets28/LEETCODE-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
